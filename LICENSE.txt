@@ -1,0 +1,3 @@
+KSC Extended is licensed MIT
+June 29th, 2021
+Authored by Damonvv and JadeOfMaar on GitHub
