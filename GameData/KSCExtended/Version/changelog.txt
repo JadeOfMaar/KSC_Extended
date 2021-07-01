@@ -1,4 +1,13 @@
+3.0
+
+* Added spawn points to TSC runway.
+* Cleaned up TSC.
+* Updated grass colors.
+  * Replaced launchsite modules in statics with Universal Spawn Points so the grass color modules stop breaking.
+
+
 2.2
+
 * Renamed a static (TCL_41, removed ".mu" from pointername) and updated references in KK group.
 * Consolidated play mode patch into one file.
 * Updated Classic mode to provide Oxium, Nitronite in addition to Propellium, Raptium, RHK1.
@@ -7,7 +16,9 @@
   * Includes patch to color match grass colors to terrain.
   * Repositions TSC (in a very, very different location) and fixes minor rotation/curvature problems.
 
+
 2.1
+
 * Added launch site logos for all sites.
 * Added helipad launch sites.
 * Added useable fueling depots.
