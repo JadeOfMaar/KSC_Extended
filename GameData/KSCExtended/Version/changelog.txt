@@ -1,7 +1,7 @@
 3.0
 
 * Added/Fixed support for:
-  * JNSQ, KSRSS.
+  * JNSQ, KSRSS, BH.
 * Added spawn points to TSC runway.
 * Cleaned up TSC.
 * Updated grass colors.
