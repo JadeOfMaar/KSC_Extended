@@ -1,3 +1,14 @@
+3.0.1
+
+* Added TSC custom MapDecal.
+* Fixed TSC heading and position on Squad Kerbin.
+  * Made it cliff-side as it should be.
+* Fixed TSC heading and position on KSRSS Earth.
+  * Made it cliff-side as it should be.
+  * It's supposed to be in California, not Florida.
+* Updated spawn points (rotated 90deg counterclockwise and made them invisible).
+
+
 3.0
 
 * Added/Fixed support for:
