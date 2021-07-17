@@ -1,3 +1,8 @@
+3.0.2
+
+* Added filler tiles between the KSC runway and north side SPH when KerbinSideRemastered not installed.
+
+
 3.0.1
 
 * Added TSC custom MapDecal.
