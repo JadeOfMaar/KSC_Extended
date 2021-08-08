@@ -1,3 +1,8 @@
+3.0.3
+
+* Added RSS compatibility.
+* Moved TSC to a riverside location near the opposite side of Rhode from the KSC (Beyond Home).
+
 3.0.2
 
 * Added filler tiles between the KSC runway and north side SPH when KerbinSideRemastered not installed.
