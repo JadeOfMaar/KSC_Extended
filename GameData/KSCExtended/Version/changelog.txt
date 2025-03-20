@@ -1,3 +1,8 @@
+3.0.4
+
+* Fixes the deletion of TSC_PQSDecal.cfg file because of a missing :NEEDS[<modname>] after KK_MapDecal
+
+
 3.0.3
 
 * Added RSS compatibility.
